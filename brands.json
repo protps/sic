@@ -1,1 +1,51 @@
-{"success":1,"message":"OK","data":[{"id":1,"title":"Voltronic","img":"","status":0,"uploaded":0,"added":1648838922446,"lastUpdate":1648838922446},{"id":3,"title":"OPTI-Solar","img":"","status":0,"uploaded":0,"added":1648838922446,"lastUpdate":1649200703800},{"id":4,"title":"Deye","img":"","status":0,"uploaded":0,"added":1673840195001,"lastUpdate":1693061713000},{"id":5,"title":"VEICHI","img":"","status":0,"uploaded":0,"added":1673840195001,"lastUpdate":1673840195006},{"id":6,"title":"SAJ","img":"","status":0,"uploaded":0,"added":1673840195001,"lastUpdate":1673840195007}]}
+{
+  "success": 1,
+  "message": "OK",
+  "data": [
+    {
+      "id": 1,
+      "title": "Voltronic",
+      "img": "",
+      "status": 0,
+      "uploaded": 0,
+      "added": 1648838922446,
+      "lastUpdate": 1648838922446
+    },
+    {
+      "id": 3,
+      "title": "OPTI-Solar",
+      "img": "",
+      "status": 0,
+      "uploaded": 0,
+      "added": 1648838922446,
+      "lastUpdate": 1649200703800
+    },
+    {
+      "id": 4,
+      "title": "Deye",
+      "img": "",
+      "status": 0,
+      "uploaded": 0,
+      "added": 1673840195001,
+      "lastUpdate": 1693061713000
+    },
+    {
+      "id": 5,
+      "title": "VEICHI",
+      "img": "",
+      "status": 0,
+      "uploaded": 0,
+      "added": 1673840195001,
+      "lastUpdate": 1673840195006
+    },
+    {
+      "id": 6,
+      "title": "SAJ",
+      "img": "",
+      "status": 0,
+      "uploaded": 0,
+      "added": 1673840195001,
+      "lastUpdate": 1673840195007
+    }
+  ]
+}
