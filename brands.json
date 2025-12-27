@@ -1,1 +1,25 @@
-
+{
+  "brands": [
+    {
+	"id": 1,
+      "name": "Voltronic",
+      "image": "",
+	  "added": "22-10-2020",
+	  "status": 1
+    },
+    {
+	"id": 2,
+      "name": "MPP Solar",
+      "image": "",
+	  "added": "15-9-2020",
+	  "status": 1
+    },
+    {
+	"id": 3,
+      "name": "NAIZAK",
+      "image": "",
+	  "added": "15-9-2020",
+	  "status": 0
+    }
+  ]
+}
